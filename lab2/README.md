@@ -1,0 +1,3 @@
+### Corobimy?
+Nikt do końca nie wie.<br>
+Uznaliśmy, że zrobimy zadanie od prof. Dźwinela, czyli analizę datasetu Bone marrow mononuclear cells...
